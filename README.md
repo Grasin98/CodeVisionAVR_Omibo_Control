@@ -14,3 +14,9 @@ Here in this case, a-Forward
                    c-Backward
                    d-Left
                    e-Right
+Then Compile the file, Then Built it and then Rebuilt it from the options on the title bar.
+
+Once,this is done, You can Use SinaProg, It is a software used for the dumping of the code that has been creatred to hardware.
+
+You need to install all the USBasp drivers for this.
+Debug this, if you find any errors.
